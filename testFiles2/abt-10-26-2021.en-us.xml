@@ -1,0 +1,309 @@
+<Data XMLVersion="2.0">
+  <String Name="juno-test" Translate="Yes"><![CDATA[JunoTest]]></String>
+  <String Name="abt_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You are designing a solution that uses drones to monitor remote locations for anomalies. The drones have Azure IoT Edge devices. The solution must meet the following requirements:&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+
+
+
+<ul>
+<li>&lt;span style="font-family: Segoe UI,sans-serif;"&gt;Use a video stream to detect anomalies at the location.&lt;/span&gt;</li>
+<li>Send the pictures and location information to Azure.<br /></li>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;&lt;/span&gt;&lt;span style="font-family: Segoe UI,sans-serif;"&gt;Email a user the picture and location of an anomaly when an anomaly is detected.&lt;/span&gt;</li>
+<li>Use the least amount of code possible.<br /></li>
+</ul>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You develop a custom vision Azure Machine Learning module to detect the anomalies.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;Which service should you use for each requirement? To answer, drag the appropriate services to the correct requirements. Each service may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+&lt;strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;NOTE:&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt; Each correct selection is worth one point.&lt;/span&gt;]]></String>
+  <String Name="abt_AI100~16~1~0~12~3~-1~-1" Translate="Yes"><![CDATA[These are the selections for Email a user the picture and location of an anomaly when an anomaly is detected:]]></String>
+  <String Name="abt_AI100~16~1~0~11~2~-1~-1" Translate="Yes"><![CDATA[These are the selections for Send the pictures and location information to Azure:]]></String>
+  <String Name="abt_AI100~16~1~0~10~1~-1~-1" Translate="Yes"><![CDATA[These are the selections for Use a video stream to detect anomalies at the location:]]></String>
+  <String Name="abt_AI100~18~1~0~8~-1~-1~-1" Translate="Yes"><![CDATA[Answer Area]]></String>
+  <String Name="abt_AI100~19~1~0~5~3~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Email a user the picture and location of an anomaly when an anomaly is detected:&lt;/span&gt;</div>]]></String>
+  <String Name="abt_AI100~19~1~0~4~2~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Send the pictures and location information to Azure:&lt;/span&gt;</div>]]></String>
+  <String Name="abt_AI100~19~1~0~3~1~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Use a video stream to detect anomalies at the location:&lt;/span&gt;</div>]]></String>
+  <String Name="abt_AI100~21~1~0~2~2~-1~-1" Translate="Yes"><![CDATA[Azure Functions]]></String>
+  <String Name="abt_AI100~21~1~0~9~3~-1~-1" Translate="Yes"><![CDATA[Azure IoT Edge]]></String>
+  <String Name="abt_AI100~21~1~0~13~4~-1~-1" Translate="Yes"><![CDATA[Azure IoT Hub]]></String>
+  <String Name="abt_AI100~21~1~0~14~5~-1~-1" Translate="Yes"><![CDATA[Azure Logic Apps]]></String>
+  <String Name="abt_AI100~22~1~0~6~1~-1~-1" Translate="Yes"><![CDATA[Services]]></String>
+  <String Name="abt_AI100~23~1~0~7~1~-1~-1" Translate="Yes"><![CDATA[Service]]></String>
+  <String Name="abt_AI100~32~1~0~15~-1~-1~-1" Translate="Yes"><![CDATA[Answer area displays three response locations.]]></String>
+  <String Name="R3bea_AI100~2~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;You are developing an application for photo classification. Users of the application will include minors. The users will upload photos to the application. The photos will be stored for model training purposes. All the photos must be considered appropriate for minors.&lt;/span&gt;</p>
+<p><span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;">&nbsp;</span></p>
+<p>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;You need to recommend an architecture for the application.&lt;/span&gt;</p>
+<p><span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;">&nbsp;</span></p>
+<p>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Which Azure services should you recommend using in the architecture? To answer, drag the appropriate services to the correct targets. Each service may be used once, more than once, or not at all. You may need to drag the split bar between panes or scroll to view content.&lt;/span&gt;</p>
+<p><span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;">&nbsp;</span></p>
+&lt;strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;NOTE:&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt; Each correct selection is worth one point.&lt;/span&gt;]]></String>
+  <String Name="R3bea_AI100~18~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[Answer Area]]></String>
+  <String Name="R3bea_AI100~17~1~0~3~-1~-1~-1" Translate="Yes"><![CDATA[<img src="R3bea.png">]]></String>
+  <String Name="R3bea_AI100~21~1~0~7~2~-1~-1" Translate="Yes"><![CDATA[Azure App Service]]></String>
+  <String Name="R3bea_AI100~21~1~0~8~3~-1~-1" Translate="Yes"><![CDATA[Azure Logic Apps]]></String>
+  <String Name="R3bea_AI100~21~1~0~9~4~-1~-1" Translate="Yes"><![CDATA[Azure Content Moderator]]></String>
+  <String Name="R3bea_AI100~21~1~0~10~5~-1~-1" Translate="Yes"><![CDATA[Azure Sentinel]]></String>
+  <String Name="R3bea_AI100~16~1~0~14~4~-1~-1" Translate="Yes"><![CDATA[Location D, Store]]></String>
+  <String Name="R3bea_AI100~16~1~0~15~3~-1~-1" Translate="Yes"><![CDATA[Location C, Classify]]></String>
+  <String Name="R3bea_AI100~16~1~0~16~2~-1~-1" Translate="Yes"><![CDATA[Location B, Check.]]></String>
+  <String Name="R3bea_AI100~16~1~0~17~1~-1~-1" Translate="Yes"><![CDATA[Location A.]]></String>
+  <String Name="R3bea_AI100~32~1~0~4~-1~-1~-1" Translate="Yes"><![CDATA[Answer area with four target locations. Location B is labeled Check. Location C is labeled Classify. Location D is labeled Story. Location A has no label but shows arrows pointing to and from Check and Classify, and an arrow pointing to Store.]]></String>
+  <String Name="R3bea_AI100~22~1~0~5~1~-1~-1" Translate="Yes"><![CDATA[Services]]></String>
+  <String Name="R3bea_AI100~23~1~0~6~1~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: center;">Service</div>]]></String>
+  <String Name="R3bea_AI100~21~1~0~11~6~-1~-1" Translate="Yes"><![CDATA[Azure Custom Vision API]]></String>
+  <String Name="R3bea_AI100~21~1~0~12~7~-1~-1" Translate="Yes"><![CDATA[Azure Blob Storage]]></String>
+  <String Name="R3bea_AI100~21~1~0~13~8~-1~-1" Translate="Yes"><![CDATA[Azure Disk Storage]]></String>
+  <String Name="abf_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You plan to implement a new data warehouse for a planned AI solution.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You have the following information regarding the data warehouse:&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<ul>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;The data files will be available in one week.&lt;/span&gt;</li>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;Most queries that will be executed against the data warehouse will be ad-hoc queries.&lt;/span&gt;</li>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;The schemas of data files that will be loaded to the data warehouse will change often.&lt;/span&gt;</li>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;One month after the planned implementation, the data warehouse will contain 15 TB of data.&lt;/span&gt;</li>
+</ul>
+<p><span>&nbsp;</span></p>
+<p>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;You need to recommend a database solution to support the planned implementation.<br /><br /></span></p>
+<p>What two solutions should you include in the recommendation? Each correct answer is a complete solution.<br /><br />&lt;strong&gt;NOTE:&lt;/strong&gt; Each correct selection is worth one point.</p>]]></String>
+  <String Name="abf_AI100~3~1~0~3~2~-1~-1" Translate="Yes"><![CDATA[Apache Spark]]></String>
+  <String Name="abf_AI100~3~1~0~2~1~-1~-1" Translate="Yes"><![CDATA[&lt;span&gt;Apache Hadoop&lt;/span&gt;]]></String>
+  <String Name="abf_AI100~3~1~0~4~3~-1~-1" Translate="Yes"><![CDATA[a Microsoft Azure SQL database]]></String>
+  <String Name="abf_AI100~3~1~0~5~4~-1~-1" Translate="Yes"><![CDATA[an Azure virtual machine that runs Microsoft SQL Server]]></String>
+  <String Name="bdo_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You have a container image that contains an AI solution. The solution will be used on demand and will only be needed a few hours each month.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You plan to use Azure Functions to deploy the environment on-demand.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You need to recommend the deployment process. The solution must minimize costs.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Which three actions should you recommend Azure Functions perform in sequence? To answer, move the appropriate actions from the list of actions to the answer area and arrange them in the correct order.&lt;/span&gt;&lt;span style="font-family: Segoe UI,sans-serif; font-size: 11pt;"&gt;&lt;/span&gt;]]></String>
+  <String Name="bdo_AI100~18~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[Answer Area]]></String>
+  <String Name="bdo_AI100~24~1~0~3~-1~-1~-1" Translate="Yes"><![CDATA[Actions]]></String>
+  <String Name="bdo_AI100~26~1~0~4~1~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Create an Azure container instance.&lt;/span&gt;]]></String>
+  <String Name="bdo_AI100~26~1~0~6~2~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Run the AI solution.&lt;/span&gt;]]></String>
+  <String Name="bdo_AI100~26~1~0~7~3~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Delete the Azure container instance.&lt;/span&gt;]]></String>
+  <String Name="bdo_AI100~26~1~0~8~4~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Shut down the virtual machine.&lt;/span&gt;]]></String>
+  <String Name="bdo_AI100~26~1~0~9~5~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Create an Azure Kubernetes Service (AKS) cluster.&lt;/span&gt;]]></String>
+  <String Name="aam_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You are designing an AI solution that will provide feedback to teachers who train students over the Internet. The students will be in classrooms located in remote areas. The solution will capture video and audio data of the students in the classrooms.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You need to recommend Azure Cognitive Services for the AI solution to meet the following requirements:&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<ul>
+<li>&lt;span&gt;Alert teachers if a student facial expression indicates the student is angry or scared.&lt;/span&gt;</li>
+<li>&lt;span&gt;Identify each student in the classrooms for attendance purposes.&lt;/span&gt;</li>
+<li>&lt;span&gt;Allow the teachers to log voice conversations as text. Test text.&lt;/span&gt;</li>
+</ul>
+<p><span>&nbsp;</span></p>
+&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Which Cognitive Services should you recommend?&lt;/span&gt;]]></String>
+  <String Name="aam_AI100~3~1~0~2~1~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Speech to Text and Face API&lt;/span&gt;]]></String>
+  <String Name="aam_AI100~3~1~0~3~2~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Computer Vision and Text Analytics&lt;/span&gt;]]></String>
+  <String Name="aam_AI100~3~1~0~4~3~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Face API and Text Analytics&lt;/span&gt;]]></String>
+  <String Name="aam_AI100~3~1~0~6~4~-1~-1" Translate="Yes"><![CDATA[&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;QnA Maker and Computer Vision&lt;/span&gt;]]></String>
+  <String Name="abs_AI100~19~1~0~4~1~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Service to use:&lt;/span&gt;</div>]]></String>
+  <String Name="abs_AI100~21~1~0~3~2~-1~-1" Translate="Yes"><![CDATA[Apache Hive]]></String>
+  <String Name="abs_AI100~21~1~0~6~3~-1~-1" Translate="Yes"><![CDATA[Azure Data Factory]]></String>
+  <String Name="abs_AI100~21~1~0~7~4~-1~-1" Translate="Yes"><![CDATA[Azure Functions]]></String>
+  <String Name="abs_AI100~21~1~0~10~5~-1~-1" Translate="Yes"><![CDATA[Azure Stream Analytics]]></String>
+  <String Name="abs_AI100~21~1~0~11~6~-1~-1" Translate="Yes"><![CDATA[A Web Job in Azure]]></String>
+  <String Name="abs_AI100~21~1~0~13~7~-1~-1" Translate="Yes"><![CDATA[An Azure IoT Edge device]]></String>
+  <String Name="abs_AI100~21~1~0~14~8~-1~-1" Translate="Yes"><![CDATA[Azure Event Hubs]]></String>
+  <String Name="abs_AI100~21~1~0~15~9~-1~-1" Translate="Yes"><![CDATA[Azure Notification Hubs]]></String>
+  <String Name="abs_AI100~32~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[Answer area displays two response locations.]]></String>
+  <String Name="abs_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You are designing a solution that will ingest temperature data from IoT devices, calculate the rolling average temperature, and then take action based on the aggregated data. The solution must meet the following requirements:&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<ul>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;Minimize the amount of uploaded data.&lt;/span&gt;</li>
+<li>&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span&gt;Take action based on the aggregated data as quickly as possible.&lt;/span&gt;</li>
+</ul>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;What should you include in the solution? To answer, select the appropriate options in the answer area.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+&lt;strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;NOTE:&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt; Each correct selection is worth one point.&lt;/span&gt;]]></String>
+  <String Name="abs_AI100~16~1~0~9~2~-1~-1" Translate="Yes"><![CDATA[These are the selections for Location to deploy the job:]]></String>
+  <String Name="abs_AI100~16~1~0~8~1~-1~-1" Translate="Yes"><![CDATA[These are the selections for Service to use:]]></String>
+  <String Name="abs_AI100~18~1~0~12~-1~-1~-1" Translate="Yes"><![CDATA[Answer Area]]></String>
+  <String Name="abs_AI100~19~1~0~5~2~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Location to deploy the job:&lt;/span&gt;</div>]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~10~-1~1~-1" Translate="Yes"><![CDATA[Overview]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~11~-1~2~-1" Translate="Yes"><![CDATA[Existing Environment]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~12~-1~2.1~-1" Translate="Yes"><![CDATA[Infrastructure]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~13~-1~2.2~-1" Translate="Yes"><![CDATA[Current Business Model]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~14~-1~2.3~-1" Translate="Yes"><![CDATA[Data Environment]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~15~-1~2.4~-1" Translate="Yes"><![CDATA[Problem Statements]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~16~-1~3~-1" Translate="Yes"><![CDATA[Requirements]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~17~-1~3.1~-1" Translate="Yes"><![CDATA[Business Goals]]></String>
+  <String Name="CONT_AI100_CS~27~1~0~18~-1~3.2~-1" Translate="Yes"><![CDATA[Technical Requirements]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~19~-1~1~-1" Translate="Yes"><![CDATA[<div>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Contoso, Ltd. has an office in New York to serve its North American customers and an office in Paris to serve its European customers.&lt;/span&gt;</div>]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~20~-1~2~-1" Translate="Yes"><![CDATA[0]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~21~-1~2.1~-1" Translate="Yes"><![CDATA[<p>Each office has a small data center that hosts Active Directory services and a few off-the-shelf software solutions used by internal users.</p>
+<p><br /></p>
+<p>The network contains a single Active Directory forest that contains a single domain named contoso.com. Azure Active Directory (Azure AD) Connect is used to extend identity management to Azure.</p>
+<p>&nbsp;</p>
+<p>The company has an Azure subscription. Each office has an Azure ExpressRoute connection to the subscription. The New York office connects to a virtual network hosted in the US East 2 Azure region. The Paris office connects to a virtual network hosted in the West Europe Azure region.</p>
+<p>&nbsp;</p>
+&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;The New York office has an Azure Stack Development Kit (ASDK) deployment that is used for development and testing.&lt;/span&gt;]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~22~-1~2.2~-1" Translate="Yes"><![CDATA[<div>&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Contoso has a web app named Bookings hosted in an App Service Environment (ASE). The ASE is in the virtual network in the East US 2 region. Contoso employees and customers use Bookings to reserve hotel rooms.&lt;/span&gt;</div>]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~23~-1~2.3~-1" Translate="Yes"><![CDATA[<p>Bookings connects to a Microsoft SQL Server database named hotelDB in the New York office.</p>
+<p><br /></p>
+&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;The database has a view named vwAvailability that consolidates columns from three tables named Hotels, Rooms, and RoomAvailability. The database contains data that was collected during the last 20 years.&lt;/span&gt;]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~24~-1~2.4~-1" Translate="Yes"><![CDATA[<p>Contoso identifies the following issues with its current business model:</p>
+<p>&nbsp;</p>
+<ul>
+<li style="margin: 0in 0in .0001pt 38.9pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt; &lt;/span&gt;&lt;span style="font-family: Segoe UI,sans-serif;"&gt;European users report that access to Bookings is slow, and they lose customers who must wait on the phone while they search for available rooms.&lt;/span&gt;</li>
+<li style="margin: 0in 0in .0001pt 38.9pt;">Users report that Bookings was unavailable during an outage in the New York data center for more than 24 hours.</li>
+</ul>]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~25~-1~3~-1" Translate="Yes"><![CDATA[0]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~26~-1~3.1~-1" Translate="Yes"><![CDATA[<p>Contoso wants to provide a new version of the Bookings app that will provide a highly available, reliable service for booking travel packages by interacting with a chatbot named Butler.</p>
+<p><br /></p>
+&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;Contoso plans to move all production workloads to the cloud.&amp;nbsp;&lt;/span&gt;]]></String>
+  <String Name="CONT_AI100_CS~28~1~0~27~-1~3.2~-1" Translate="Yes"><![CDATA[<p>Contoso identifies the following technical requirements:</p>
+<p>&nbsp;</p>
+<ul>
+<li>Data scientists must test Butler by using ASDK.</li>
+<li>Solutions must minimize costs.</li>
+<li>Butler must greet users by name when they first connect.</li>
+<li>Butler must be able to handle up to 10,000 messages a day.</li>
+<li>Butler must recognize the users&amp;rsquo; intent based on basic utterances.</li>
+<li>All configurations to the Azure Bot Service must be logged centrally.</li>
+<li>Solutions must use the principle of least privilege.</li>
+<li>Internal users must be able to access Butler by using Microsoft Skype for Business.</li>
+<li>The new Bookings app must provide a user interface where users can interact with Butler.</li>
+<li>Users in an Azure AD group named KeyManagers must be able to manage keys for all Azure Cognitive Services.</li>
+<li>Butler must provide users with the ability to reserve a room, cancel a reservation, and view existing reservations.</li>
+<li>The new Bookings app must be available to users in North America and Europe if a single data center or Azure region fails.</li>
+<li>For continuous improvement, you must be able to test Butler by sending sample utterances and comparing the chatbot&amp;rsquo;s responses to the actual intent.</li>
+<li>You must maintain relationships between data after migration. Test</li>
+</ul>]]></String>
+  <String Name="CONT_AI100_OV~1~1~0~0~-1~-1~-1" Translate="Yes"><![CDATA[<html>
+<head></head>
+<body><p style="margin: 0in 0in 0pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;This is a case study. &lt;b&gt;Case studies are not timed separately. You can use as much exam time as you would like to complete each case. &lt;/b&gt;However, there may be additional case studies and sections on this exam. You must manage your time to ensure that you are able to complete all questions included on this exam in the time provided.&lt;/span&gt;</p>
+<br>
+<p style="margin: 0in 0in 0pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;To answer the questions included in a case study, you will need to reference information that is provided in the case study. Case studies might contain exhibits and other resources that provide more information about the scenario that is described in the case study. Each question is independent of the other questions in this case study. &lt;/span&gt;</p>
+<br>
+<p style="margin: 0in 0in 0pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;At the end of this case study, a review screen will appear. This screen allows you to review your answers and to make changes before you move to the next section of the exam. After you begin a new section, you cannot return to this section.&lt;/span&gt;</p>
+<br>
+<p style="margin: 0in 0in 0pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;&lt;b&gt;To start the case study&lt;/b&gt;&lt;/span&gt;</p>
+<p style="margin: 0in 0in 0pt;">&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;To display the first question in this case study, click the &lt;b&gt;Next&lt;/b&gt; button. Use the buttons in the left pane to explore the content of the case study before you answer the questions. Clicking these buttons displays information such as business requirements, existing environment, and problem statements. If the case study has an &lt;b&gt;All Information&lt;/b&gt; tab, note that the information displayed is identical to the information displayed on the subsequent tabs. When you are ready to answer a question, click the &lt;b&gt;Question &lt;/b&gt;button to return to the question.&lt;/span&gt;</p></body>
+</html>]]></String>
+  <String Name="R1baa_AI100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p>&lt;span&gt;You are creating an Azure Cognitive Search capability for the internal documents of your company.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You plan to use Azure Cognitive Services to improve the knowledge gained from the documents.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+<p>&lt;span&gt;You configure data import into Azure Cognitive Search as shown in the following exhibit.<br /><br /><img src="1-R1baa_AI100.png"><br /><br /></span></p>
+<p>&lt;span&gt;Use the drop-down menus to select the answer choice that completes each statement based on the information presented in the graphic.&lt;/span&gt;</p>
+<p><span>&nbsp;</span></p>
+&lt;strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;NOTE:&lt;/span&gt;&lt;/strong&gt;&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt; Each correct selection is worth one point.&lt;/span&gt;]]></String>
+  <String Name="R1baa_AI100~16~1~0~7~2~-1~-1" Translate="Yes"><![CDATA[These are the selections for the statement To support GDPR compliance, you can [answer choice].]]></String>
+  <String Name="R1baa_AI100~16~1~0~6~1~-1~-1" Translate="Yes"><![CDATA[These are the selections for the statement To extract relevant information from the documents, the source data field must [answer choice].]]></String>
+  <String Name="R1baa_AI100~18~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[Answer Area]]></String>
+  <String Name="R1baa_AI100~19~1~0~4~2~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;To support GDPR compliance, you can &lt;strong&gt;[answer choice]&lt;/strong&gt;.&lt;/span&gt;</div>]]></String>
+  <String Name="R1baa_AI100~19~1~0~3~1~-1~-1" Translate="Yes"><![CDATA[<div style="text-align: right;">&lt;span style="font-size: 11.0pt; font-family: Segoe UI,sans-serif;"&gt;To extract relevant information from the documents, the source data field must &lt;strong&gt;[answer choice]&lt;/strong&gt;.&lt;/span&gt;</div>]]></String>
+  <String Name="R1baa_AI100~21~1~0~8~2~-1~-1" Translate="Yes"><![CDATA[be left blank]]></String>
+  <String Name="R1baa_AI100~21~1~0~9~3~-1~-1" Translate="Yes"><![CDATA[stay the same]]></String>
+  <String Name="R1baa_AI100~21~1~0~10~4~-1~-1" Translate="Yes"><![CDATA[change to a different field]]></String>
+  <String Name="R1baa_AI100~21~1~0~11~5~-1~-1" Translate="Yes"><![CDATA[clear the Extract people names check box]]></String>
+  <String Name="R1baa_AI100~21~1~0~12~6~-1~-1" Translate="Yes"><![CDATA[clear all the Text Cognitive Skills check boxes]]></String>
+  <String Name="R1baa_AI100~21~1~0~13~7~-1~-1" Translate="Yes"><![CDATA[clear the Extract organization names check box]]></String>
+  <String Name="R1baa_AI100~32~1~0~5~-1~-1~-1" Translate="Yes"><![CDATA[Answer area displays two incomplete statements that each have an associated response location.]]></String>
+  <String Name="R1baa_AI100~2~3~0~1~-1~-1~-1~1.0.0~1-R1baa_AI100.png" Translate="Yes"><![CDATA[Import Data window displays the Add Cognitive Search tab.
+
+Information tip reads: Enrich and extract structure from your documents through cognitive skills using the same AI algorithms that power Cognitive Services. Select the document cracking options and the cognitive skills you want to apply to your documents. Optionally, save enriched documents in Azure Storage for use in scenarios other than search.
+
+The Attach Cognitive Services section shows the following: To power your cognitive skills, select an existing Cognitive Services resource or create a new one. The Cognitive Services resources should be in the same region as your Search service. The execution of cognitive skills will be billed to the selected resource. Otherwise, the number of enrichment executions will be limited. Cognitive Services Resource Name: Free (Limited enrichments) Region: none entered A link that reads Create New Cognitive Services resource is available beneath the Attach Cognitive Services section.
+
+The Add Enrichments section shows the following: Run cognitive skills over a source data field to create additional searchable fields.
+Skillset name: myskillset Source data field: listingID Enrichment granularity level: Source field (default) The Text Cognitive Skills option is selected. Under the Text Cognitive Skills heading, the following options are selected: Extract people names, Extract organization names, Extract location names, Extract key phrases.
+
+]]></String>
+  <String Name="LODS_Resources_R1_Lab1~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<div class="labInfo">
+<p>Use the following login credentials as needed:<br /><br />To enter your username, place your cursor in the <bpt id="p1">&lt;b&gt;</bpt>Sign in<ept id="p1">&lt;/b&gt;</ept> box and click on the username below. <br /><br />To enter your password, place your cursor in the &lt;b&gt;Enter password&lt;/b&gt; box and click on the password below.&amp;nbsp;<br /></p>
+<p><b><br />Azure Username:&lt;/b&gt; &lt;span class="sendtext replacevar" onclick="#sendtext#"&gt;%@lab.CloudPortalCredential(1).Username%&lt;/span&gt;</p>
+<p>&lt;b&gt;Azure Password:&lt;/b&gt; &lt;span class="sendtext replacevar" onclick="#sendtext#"&gt;%@lab.CloudPortalCredential(1).Password%<br /><br /></span></p>
+<p style="margin: 0in 0in 0.0001pt; font-size: 11pt; font-family: segoe ui;">If the Azure portal does not load successfully in the browser, press CTRL-K to reload the portal in a new browser tab.<br /><br />The following information is for technical support purposes only:<br />
+  <p>&lt;b&gt;Lab Instance:&lt;/b&gt; &lt;span class="replacevar"&gt;%@lab.LabInstance.Id%&lt;/span&gt;</p>
+</div>]]></String>
+  <String Name="LODS_Resources_R1_Lab1~5~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[Username and password]]></String>
+  <String Name="daL1_7_AZ100~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[You plan to allow connections between the VNET01-USEA2 and VNET01-USWE2 virtual networks.<br /><br /> You need to ensure that virtual machines can communicate across both virtual networks by using their private IP address. The solution must <bpt id="p1">&lt;b&gt;</bpt>NOT<ept id="p1">&lt;/b&gt;</ept> require any virtual network gateways.<br /><br /> What should you do from the Azure portal?]]></String>
+  <String Name="daL1_7_AZ100~5~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[Task 7]]></String>
+  <String Name="cbk_680_AS~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;&lt;em&gt;&lt;strong&gt;(Active Screen Item Type - screenshot use, single control object type)&lt;/strong&gt;&lt;/em&gt;<br />A<ph id="ph1">&amp;nbsp;</ph>company is upgrading its client computers from Windows XP to Windows 7. You add an application to the Windows 7 base image.<ph id="ph1">&lt;/span&gt;</ph><ph id="ph2">&lt;/span&gt;</ph></p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;The&amp;nbsp;menu on the title bar of the application is not displayed properly, although other graphical elements are displayed correctly.&lt;/span&gt;&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;You&amp;nbsp;need to ensure that the application&amp;rsquo;s menu is displayed correctly on client computers that run Windows 7.&lt;/span&gt;&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;Which option should you choose to achieve this goal? (To answer, select the appropriate settings in the Application.exe Properties window in the answer area.)&lt;/span&gt;&lt;/span&gt;</p>]]></String>
+  <String Name="cbk_680_AS~17~1~0~3~-1~-1~-1" Translate="Yes"><![CDATA[<img src="cbk_680_1.gif">]]></String>
+  <String Name="cbk_680_AS~18~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[&lt;span class="AceStandard-H"&gt;&lt;b&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;Answer Area&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;]]></String>
+  <String Name="cbk_680_AS~16~1~0~4~1~-1~-1" Translate="Yes"><![CDATA[Run this program in compatibility mode for Windows XP (Service Pack 3)]]></String>
+  <String Name="cbk_680_AS~16~1~0~5~2~-1~-1" Translate="Yes"><![CDATA[Run in 256 colors]]></String>
+  <String Name="cbk_680_AS~16~1~0~6~3~-1~-1" Translate="Yes"><![CDATA[Run in 640 x 480 screen resolution]]></String>
+  <String Name="cbk_680_AS~16~1~0~7~4~-1~-1" Translate="Yes"><![CDATA[Disable visual themes]]></String>
+  <String Name="cbk_680_AS~16~1~0~8~5~-1~-1" Translate="Yes"><![CDATA[Disable desktop composition]]></String>
+  <String Name="cbk_680_AS~16~1~0~9~6~-1~-1" Translate="Yes"><![CDATA[Disable display scaling on high DPI settings]]></String>
+  <String Name="cbk_680_AS~16~1~0~10~7~-1~-1" Translate="Yes"><![CDATA[Run this program as an administrator]]></String>
+  <String Name="cbk_680_AS~32~1~0~11~-1~-1~-1" Translate="Yes"><![CDATA[Answer area that displays the Application.exe Properties window. The window is open to the Compatibility tab. The Compatibility mode checkbox is cleared. The checkboxes for Run in 256 colors, Run in 640x480 screen resolution, Disable visual themes, Disable desktop composition, and Disable display scaling on high DPI settings are cleared. The Run this program as an administrator privilege level is unchecked.]]></String>
+  <String Name="R1aca_483_CA~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;&lt;em&gt;&lt;strong&gt;(Table Code Analysis Item Type)&lt;/strong&gt;&lt;/em&gt;<br />You&amp;nbsp;are building a data access layer in an application that contains the following code:&lt;/span&gt;&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;public&lt;/span&gt;&amp;nbsp;&lt;span class="font0000ff"&gt;static&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;Object&lt;/span&gt;&amp;nbsp;GetTypeDefault(&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;&amp;nbsp;dbDataType)&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;{&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;switch&lt;/span&gt;&amp;nbsp;(dbDataType)&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&amp;nbsp;&amp;nbsp;{&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;.Boolean:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;&lt;span class="font0000ff"&gt;false&lt;/span&gt;;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;.DateTime:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DateTime&lt;/span&gt;.MinValue;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;.Decimal:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;0m;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;.Int32:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;0;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;case&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;DbType&lt;/span&gt;.String:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;&lt;span class="font2b91af"&gt;String&lt;/span&gt;.Empty;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;default&lt;/span&gt;:&amp;nbsp;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;&lt;span class="font0000ff"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;return&lt;/span&gt;&amp;nbsp;&lt;span class="font0000ff"&gt;null&lt;/span&gt;;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H"&gt;&amp;nbsp;&lt;span style="font-family: Consolas; font-size: 10pt;"&gt;&amp;nbsp;}&lt;/span&gt;&lt;/span&gt;</p>
+<p class="CodeBlockNew-P">&lt;span class="CodeBlockNew-H" style="font-family: Consolas; font-size: 10pt;"&gt;}&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;For&amp;nbsp;each of the following statements, select Yes if the statement is true. Otherwise, select No.&lt;/span&gt;<br /><br />&lt;span style="font-family: Segoe UI; font-size: 11pt;"&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; Each correct selection is worth one point.&lt;/span&gt;<br /></span></p>]]></String>
+  <String Name="R1aca_483_CA~18~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[&lt;span class="AceStandard-H"&gt;&lt;b&gt;&lt;span style="font-family: segoe ui; font-size: 11pt;"&gt;Answer Area&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~16~1~0~4~1~-1~-1" Translate="Yes"><![CDATA[This is the Yes option for the statement If dbDataType is DateTime, today’s date is returned]]></String>
+  <String Name="R1aca_483_CA~16~1~0~5~2~-1~-1" Translate="Yes"><![CDATA[This is the No option for the statement If dbDataType is DateTime, today’s date is returned]]></String>
+  <String Name="R1aca_483_CA~16~1~0~6~3~-1~-1" Translate="Yes"><![CDATA[This is the Yes option for the statement If dbDataType is Int64, Null is returned]]></String>
+  <String Name="R1aca_483_CA~16~1~0~7~4~-1~-1" Translate="Yes"><![CDATA[This is the No option for the statement If dbDataType is Int64, Null is returned]]></String>
+  <String Name="R1aca_483_CA~16~1~0~8~5~-1~-1" Translate="Yes"><![CDATA[This is the Yes option for the statement If dbDataType is Double, 0 is returned]]></String>
+  <String Name="R1aca_483_CA~16~1~0~9~6~-1~-1" Translate="Yes"><![CDATA[This is the No option for the statement If dbDataType is Double, 0 is returned]]></String>
+  <String Name="R1aca_483_CA~19~1~0~10~1~-1~-1" Translate="Yes"><![CDATA[&lt;span class="activescreenlabelright" style="font-size:11pt; font-family:Segoe UI; "&gt;If dbDataType is DateTime, today’s date is returned.&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~19~1~0~11~2~-1~-1" Translate="Yes"><![CDATA[&lt;span class="activescreenlabelright" style="font-size: 11pt; font-family: Segoe UI;"&gt;If dbDataType is Int64, Null is returned.&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~19~1~0~12~3~-1~-1" Translate="Yes"><![CDATA[&lt;span class="activescreenlabelright" style="font-size: 11pt; font-family: Segoe UI;"&gt;If dbDataType is Double, 0 is returned.&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~19~1~0~13~4~-1~-1" Translate="Yes"><![CDATA[&lt;span class="activescreenlabelcenter" style="font-size:11pt; font-weight:bold; font-family:Segoe UI; "&gt;Yes&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~19~1~0~14~5~-1~-1" Translate="Yes"><![CDATA[&lt;span class="activescreenlabelcenter" style="font-size:11pt; font-weight:bold; font-family:Segoe UI; "&gt;No&lt;/span&gt;]]></String>
+  <String Name="R1aca_483_CA~32~1~0~15~-1~-1~-1" Translate="Yes"><![CDATA[Answer area that contains a table in which each row has a statement and options named Yes and No.]]></String>
+  <String Name="R1cbo_680_HA~2~1~0~1~-1~-1~-1" Translate="Yes"><![CDATA[<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;&lt;em&gt;&lt;strong&gt;(Hot Area Item Type)&lt;/strong&gt;&lt;/em&gt;<br />You&amp;nbsp;administer a computer that has Windows 7 Enterprise installed.&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;The&amp;nbsp;computer has an application that must run by using administrative permissions.&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;A&amp;nbsp;user who has a standard user account connects to the computer by using a Remote Desktop Connection. The user right-clicks the application shortcut, but the &lt;b&gt;Run&amp;nbsp;as administrator&lt;/b&gt;&amp;nbsp;option is unavailable.&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;You&amp;nbsp;need to ensure that the user is able to run the application by using administrative permissions.&lt;/span&gt;</p>
+<p class="AceStandard-P"><span class="AceStandard-H">&nbsp;</span></p>
+<p class="AceStandard-P">&lt;span class="AceStandard-H"&gt;Which service should you configure? (To answer, select the appropriate service in the Services window in the answer area.)&lt;/span&gt;</p>
+<p class="Arial4-P"><span class="Arial4-H">&nbsp;</span></p>]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~4~1~-1~-1" Translate="Yes"><![CDATA[Remote Access Auto Connection Manager]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~5~2~-1~-1" Translate="Yes"><![CDATA[Remote Access Connection Manager]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~6~3~-1~-1" Translate="Yes"><![CDATA[Remote Desktop Configuration]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~7~4~-1~-1" Translate="Yes"><![CDATA[Remote Desktop Services]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~8~5~-1~-1" Translate="Yes"><![CDATA[Remote Desktop Services UserMode Port Redirector]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~9~6~-1~-1" Translate="Yes"><![CDATA[Remote Packet Capture Protocol v.0 (experimental)]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~10~7~-1~-1" Translate="Yes"><![CDATA[Remote Procedure Call (RPC)]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~11~8~-1~-1" Translate="Yes"><![CDATA[Remote Procedure Call (RDC) Locator]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~12~9~-1~-1" Translate="Yes"><![CDATA[Remote Registry]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~13~10~-1~-1" Translate="Yes"><![CDATA[Routing and Remote Access]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~14~11~-1~-1" Translate="Yes"><![CDATA[RPC Endpoint Mapper]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~15~12~-1~-1" Translate="Yes"><![CDATA[Secondary Logon]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~16~13~-1~-1" Translate="Yes"><![CDATA[Secure Socket Tunneling Protocol Service]]></String>
+  <String Name="R1cbo_680_HA~16~1~0~17~14~-1~-1" Translate="Yes"><![CDATA[Security Accounts Manager]]></String>
+  <String Name="R1cbo_680_HA~17~1~0~3~-1~-1~-1" Translate="Yes"><![CDATA[<img src="32R1cbo_bg.gif">]]></String>
+  <String Name="R1cbo_680_HA~18~1~0~2~-1~-1~-1" Translate="Yes"><![CDATA[&lt;span class="AceStandard-H"&gt;&lt;b&gt;Work&amp;nbsp;Area&lt;/b&gt;&lt;/span&gt;]]></String>
+  <String Name="R1cbo_680_HA~32~1~0~18~-1~-1~-1" Translate="Yes"><![CDATA[The Services window shows a snapshot of 14 services. 11 services are not started: Remote Access Auto Connection Manager, Remote Access Connection Manager, Remote Desktop Services, Remote Desktop Services, Remote Desktop Services UserMode Port Redirector, Remote Packet Capture Protocol v.0, Remote Procedure Call (RPC) Locator, Remote Registry, Routing and Remote Access, Secondary Logon, and Secure Socket Tunneling Protocol Service.
+
+Remote Procedure Call (RPC), RPC Endpoint Mapper, and Security Accounts Manager are started.]]></String>
+</Data>
